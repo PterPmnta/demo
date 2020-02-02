@@ -1,15 +1,24 @@
-{
-  "succes": true,
-    "user": {
-        "name": "Pedro",
-        "avatar": "MyAvatar",
-        "level": 15,
-        "points": 35698,
-        "archivements": [],
-        "_id": "b1b45g2",
-        "type": "Admin",
-        "user": "Usuario124587",
-        "email": "correo@empresa.com"
+{"posts":
+  [
+    {
+    "nombre": "Pedro",
+    "nick": "PterPmnta",
+    "email": "correo@empresa.com"
     },
-    "token": "kjdvbidsbv65d16v5ds1v"
+    {
+    "nombre": "Juan",
+    "nick": "JPL",
+    "email": "correo@empresa.com"
+    },
+    {
+    "nombre": "Isaac",
+    "nick": "SDP",
+    "email": "correo@empresa.com"
+    },
+    {
+    "nombre": "Other",
+    "nick": "OT",
+    "email": "correo@empresa.com"
+    }
+  ]
 }
