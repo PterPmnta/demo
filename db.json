@@ -4,6 +4,11 @@
     "nombre": "Pedro",
     "nick": "PterPmnta",
     "email": "correo@empresa.com"
+    },
+    {
+    "nombre": "Juan",
+    "nick": "JLP",
+    "email": "correo@empresa.com"
     }
   ]
 }
