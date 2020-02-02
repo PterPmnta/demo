@@ -4,21 +4,6 @@
     "nombre": "Pedro",
     "nick": "PterPmnta",
     "email": "correo@empresa.com"
-    },
-    {
-    "nombre": "Juan",
-    "nick": "JPL",
-    "email": "correo@empresa.com"
-    },
-    {
-    "nombre": "Isaac",
-    "nick": "SDP",
-    "email": "correo@empresa.com"
-    },
-    {
-    "nombre": "Other",
-    "nick": "OT",
-    "email": "correo@empresa.com"
     }
   ]
 }
